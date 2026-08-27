@@ -5,3 +5,6 @@
 4. Developed an interactive Power BI dashboard with KPI cards, charts, filters, and drilldowns to enable data-driven business analysis.
 5. Visualized performance across key dimensions such as time, category, product, region, and payment mode to identify high- and low-performing segments.
 6. Translated analytical findings into actionable business insights, enabling users to monitor performance and identify areas for improvement.
+## Dashboard Preview
+
+![E-Commerce Sales Dashboard](dashboard.png)
